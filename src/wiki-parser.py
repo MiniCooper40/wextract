@@ -1,18 +1,10 @@
-from collections import Counter, defaultdict, deque
 import json
-import time
 from lxml import etree
-import mwparserfromhell
 import re
-import nltk
 import threading
 from queue import Queue
-import os
 import multiprocessing
 import urllib.parse
-import nltk
-from enum import Enum, auto
-import numpy as np
 
 def processed_page_element(elem, namespace):
     title_elem = elem.find(f"{{{namespace}}}title")

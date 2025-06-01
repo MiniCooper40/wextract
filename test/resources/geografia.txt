@@ -1,0 +1,77 @@
+== {{-it-}} ==
+{{-sost-|it}}
+{{Pn|w}} ''f sing'' {{Linkp|geografie}}
+#[[scienza]] che studia le [[caratteristiche]] [[fisiche]], [[economiche]] e [[sociali]] della [[superficie]] della [[Terra]]
+#* '''geografia astronomica''': [[ramo]] della geografia che studia il [[moto]] della [[Terra]] in [[relazione]] agli [[altri]] [[corpi]] del [[sistema solare]]
+[[Categoria:Scienza-IT]]
+
+{{-sill-}}
+; ge | o | gra | fì | a
+
+{{-pron-}}
+{{IPA|/d͡ʒeoɡraˈfia/}}
+
+{{-etim-}}
+dal {{el}} ''[[γεωγραφία]]'' ( composta da ''[[γῆ]] '' cioè &quot;[[terra]]&quot; e da ''[[-γραϕία]]'' ossia &quot;[[descrizione]]&quot; ) e poi   dal latino ''[[geographĭa]]''
+
+{{-quote-}}
+{{Quote
+|L'unità di tutte le scienze è trovata nella geografia. Il significato della geografia è che essa presenta la terra come la sede duratura delle occupazioni dell'uomo
+|[[q:John Dewey|John Dewey]]}}
+
+{{-der-}}
+* [[antropogeografia]], [[biogeografia]], [[farmacogeografia]], [[fitogeografia]], [[geograficamente]], [[geografico]], [[geografo]]
+
+{{-rel-}}
+* [[geostoria]], [[geopolitica]], [[geoeconomia]],
+
+{{-ipon-}} 
+*[[antropogeografia]], [[farmacogeografia]], [[fitogeografia]],  
+
+{{-trad-}}
+{{Trad1|scienza}}
+:*{{el}}:  [[γεωγραφία]]
+:*{{fr}}:  [[géographie]] ''f''
+:*{{en}}:  [[geography]]
+:* {{la}}: [[geographia]] ''f''
+{{mid}}
+:*{{nl}}:  [[aardrijkskunde]] ''f'', [[geografie]] ''f''
+:*{{sl}}:  [[zemljepis]]
+:*{{de}}:  [[Erdkunde]] ''f'', [[Geografie]] ''f''
+:*{{hu}}:  [[földrajz]]
+{{Trad2}}
+
+=={{-pl-}}==
+{{-sost-|pl}}
+{{pn}} ''f''
+#{{Glossa|scienza}} [[geografia#Italiano|geografia]]
+[[Categoria:Scienza-PL]]
+{{-sill-}}
+; ge | og | ra | fia
+{{-pron-}}
+{{IPA|/geografja/}}
+
+=={{-pt-}}==
+{{-sost-|pt}}
+{{pn}} ''f''
+#{{Glossa|scienza}} [[geografia#Italiano|geografia]]
+[[Categoria:Scienza-PT]]
+
+{{-sill-}}
+; ge | o | gra | fia
+{{-pron-}}
+{{IPA|/ʒjugrɜˈfiɜ/}}
+
+{{-ref-}}
+Italiano
+** {{Fonte|trec}}
+** {{Fonte|dizit}}
+** {{Fonte|hoep}}
+** {{Fonte|gar}}
+Polacco
+** {{Fonte|pons}}
+Portoghese
+** {{Fonte|michaelis}}
+
+== Altri progetti ==
+{{Interprogetto|w|q|commons=Category:Geography}}

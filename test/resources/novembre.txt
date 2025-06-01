@@ -1,0 +1,324 @@
+== {{-it-}} ==
+{{-sost-|it}}
+{{Pn|w}} ''m inv''
+# {{Term|astronomia|it}} undicesimo [[mese]] nel [[calendario]] gregoriano; segue [[ottobre]] e precede [[dicembre]] e consta di 30 giorni
+#* ''la prima edizione del[[w:L'origine delle specie|l'origine delle specie]] fu pubblicata a Londra il 24 novembre 1859''
+#*''nel novembre del 1920 i fascisti presero d'assalto il municipio di Bologna nel giorno dell'insediamento della nuova giunta di sinistra''
+
+{{-sill-}}
+; no | vèm | bre
+
+{{-pron-}}
+{{IPA|/noˈvɛmbre/}}
+{{Audio|It-novembre.ogg}}
+
+{{-etim-}}
+dal {{la}} ''[[november]]'', da ''[[novem]]'' ossia  &quot;[[nove]]&quot; perché [[nono]] [[mese]] dell'[[antico]] [[calendario]] [[romano]]
+
+{{-der-}}
+* [[novembrino]]
+
+{{-rel-}}
+* [[anno]], [[giorno]], [[gennaio]], [[febbraio]], [[marzo]], [[aprile]], [[maggio]], [[giugno]], [[luglio]], [[agosto]], [[settembre]], [[ottobre]], [[dicembre]], [[settimana]]
+
+{{-trad-}}
+{{Trad1|mese dell'anno}}
+:*{{sq}}:  [[nëntor]]
+:*{{eu}}:  [[azaro]]
+:*{{br}}:  [[Du]], miz Du
+:*{{bg}}:  [[ноември]] ''m''
+:*{{ca}}:  novembre
+:*{{cs}}:  [[listopad]] ''m''
+:*{{zh}}:  [[十一月]] (''shíyīyuè'')
+:*{{he}}:  [[נובמבר]]
+:*{{eo}}:  [[novembro]]
+:*{{et}}:  [[november]]
+:*{{fi}}:  [[marraskuu]]
+:*{{fy}}:  [[novimber]], [[slachtmoanne]]
+:*{{ja}}:  [[十一月]] (じゅういちがつ, jūichigatsu)
+:*{{id}}:  [[november]]
+:*{{en}}:  [[November]]
+:*{{ga}}:  [[Samhain]]
+:*{{is}}:  [[nóvember]]
+:*{{lmo}}: [[nuembra]] ''m''
+:*{{mnc}}:  ([[omšon biya]])
+:*{{mi}}:  [[Noema]]
+{{mid}}
+:*{{no}}:  [[november]]
+:*{{nl}}:  [[november]]
+:*{{pl}}:  [[listopad]]
+:*{{pt}}:  [[novembro]] ''m''
+:*{{ro}}:  [[noiembrie]]
+:*{{ru}}:  [[ноябрь]]
+:*{{sc}}:
+:**{{sro}}: [[dognassantu]] ''m'', [[tottussantus]] ''m''
+:**{{sdn}}: [[sant'Andria]] ''m''
+:**{{src}}: [[sant'Andria]]  ''m''
+:**{{sdc}}: [[sant'Andria]] ''m''
+:*{{scn}}:  [[nuvèmmiru]]
+:*{{sk}}:  [[november]] ''m''
+:*{{sl}}:  [[november]]
+:*{{es}}:  [[noviembre]]
+:*{{sv}}:  [[november]]
+:*{{de}}:  [[November]] ''m'', [[Nebelung]] ''m''
+:*{{th}}:  [[พฤศจิกายน]]
+:*{{hu}}:  [[november]]
+{{Trad2}}
+
+&lt;div style=&quot;position: relative&quot;&gt;[[File:BlankEurope.png|thumb|500px|right|]]
+{|id=&quot;bg&quot; style=&quot;background:transparent; position: absolute; right: 100px; top: 385px&quot;
+|-
+|[[ноември]]
+|}
+{|id=&quot;br&quot; style=&quot;background:transparent; position: absolute; right: 380px; top: 320px&quot;
+|-
+|[[Du]]
+|}
+{|id=&quot;de&quot; style=&quot;background:transparent; position: absolute; right: 250px; top: 270px&quot;
+|-
+|[[November]]
+|}
+{|id=&quot;en&quot; style=&quot;background:transparent; position: absolute; right: 350px; top: 220px&quot;
+|-
+|[[November]]
+|}
+{|id=&quot;es&quot; style=&quot;background:transparent; position: absolute; right: 410px; top: 430px&quot;
+|-
+|[[noviembre]]
+|}
+{|id=&quot;et&quot; style=&quot;background:transparent; position: absolute; right: 140px; top: 170px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;eu&quot; style=&quot;background:transparent; position: absolute; right: 390px; top: 390px&quot;
+|-
+|[[azaro]]
+|}
+{|id=&quot;fi&quot; style=&quot;background:transparent; position: absolute; right: 160px; top: 110px&quot;
+|-
+|[[marraskuu]]
+|}
+{|id=&quot;fy&quot; style=&quot;background:transparent; position: absolute; right: 280px; top: 255px&quot;
+|-
+|[[novimber]]
+|}
+{|id=&quot;ga&quot; style=&quot;background:transparent; position: absolute; right: 400px; top: 250px&quot;
+|-
+|[[Samhain]]
+|}
+{|id=&quot;hu&quot; style=&quot;background:transparent; position: absolute; right: 170px; top: 340px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;is&quot; style=&quot;background:transparent; position: absolute; right: 420px; top: 70px&quot;
+|-
+|[[nóvember]]
+|}
+{|id=&quot;it&quot; style=&quot;background:transparent; position: absolute; right: 240px; top: 400px&quot;
+|-
+|novembre
+|}
+{|id=&quot;nl&quot; style=&quot;background:transparent; position: absolute; right: 300px; top: 280px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;no&quot; style=&quot;background:transparent; position: absolute; right: 260px; top: 140px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;pl&quot; style=&quot;background:transparent; position: absolute; right: 170px; top: 270px&quot;
+|-
+|[[listopad]]
+|}
+{|id=&quot;pt&quot; style=&quot;background:transparent; position: absolute; right: 450px; top: 410px&quot;
+|-
+|[[novembro]]
+|}
+{|id=&quot;ro&quot; style=&quot;background:transparent; position: absolute; right: 120px; top: 340px&quot;
+|-
+|[[noiembrie]]
+|}
+{|id=&quot;ru&quot; style=&quot;background:transparent; position: absolute; right: 30px; top: 150px&quot;
+|-
+|[[ноябрь]]
+|}
+{|id=&quot;scn&quot; style=&quot;background:transparent; position: absolute; right: 210px; top: 470px&quot;
+|-
+|[[nuvemmiru]]
+|}
+{|id=&quot;sk&quot; style=&quot;background:transparent; position: absolute; right: 170px; top: 315px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;sq&quot; style=&quot;background:transparent; position: absolute; right: 160px; top: 420px&quot;
+|-
+|[[nëntor]]
+|}
+{|id=&quot;sv&quot; style=&quot;background:transparent; position: absolute; right: 210px; top: 170px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;be&quot; style=&quot;background:transparent; position: absolute; right: 90px; top: 240px&quot;
+|-
+|???
+|}
+{|id=&quot;ca&quot; style=&quot;background:transparent; position: absolute; right: 360px; top: 410px&quot;
+|-
+|novembre
+|}
+{|id=&quot;cal&quot; style=&quot;background:transparent; position: absolute; right: 200px; top: 450px&quot;
+|-
+|???
+|}
+{|id=&quot;cs&quot; style=&quot;background:transparent; position: absolute; right: 215px; top: 305px&quot;
+|-
+|[[listopad]]
+|}
+{|id=&quot;cy&quot; style=&quot;background:transparent; position: absolute; right: 370px; top: 270px&quot;
+|-
+|[[Tachwedd]]  
+|}
+{|id=&quot;da&quot; style=&quot;background:transparent; position: absolute; right: 270px; top: 220px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;el&quot; style=&quot;background:transparent; position: absolute; right: 100px; top: 450px&quot;
+|-
+|???
+|}
+{|id=&quot;fo&quot; style=&quot;background:transparent; position: absolute; right: 360px; top: 130px&quot;
+|-
+|???
+|}
+{|id=&quot;fr&quot; style=&quot;background:transparent; position: absolute; right: 330px; top: 330px&quot;
+|-
+|novembre
+|}
+{|id=&quot;hr&quot; style=&quot;background:transparent; position: absolute; right: 200px; top: 370px&quot;
+|-
+|[[studeni]]
+|}
+{|id=&quot;ins&quot; style=&quot;background:transparent; position: absolute; right: 260px; top: 370px&quot;
+|-
+|???
+|}
+{|id=&quot;lb&quot; style=&quot;background:transparent; position: absolute; right: 290px; top: 310px&quot;
+|-
+|???
+|}
+{|id=&quot;lt&quot; style=&quot;background:transparent; position: absolute; right: 150px; top: 220px&quot;
+|-
+|[[lapkritis]]
+|}
+{|id=&quot;lv&quot; style=&quot;background:transparent; position: absolute; right: 160px; top: 200px&quot;
+|-
+|[[novembris]]
+|}
+{|id=&quot;nap&quot; style=&quot;background:transparent; position: absolute; right: 220px; top: 430px&quot;
+|-
+|???
+|}
+{|id=&quot;oc&quot; style=&quot;background:transparent; position: absolute; right: 310px; top: 390px&quot;
+|-
+|novembre
+|}
+{|id=&quot;rm&quot; style=&quot;background:transparent; position: absolute; right: 260px; top: 350px&quot;
+|-
+|???
+|}
+{|id=&quot;sc&quot; style=&quot;background:transparent; position: absolute; right: 260px; top: 440px&quot;
+|-
+|???
+|}
+{|id=&quot;sco&quot; style=&quot;background:transparent; position: absolute; right: 360px; top: 200px&quot;
+|-
+|???
+|}
+{|id=&quot;sl&quot; style=&quot;background:transparent; position: absolute; right: 210px; top: 355px&quot;
+|-
+|[[november]]
+|}
+{|id=&quot;sr&quot; style=&quot;background:transparent; position: absolute; right: 160px; top: 380px&quot;
+|-
+|???
+|}
+{|id=&quot;tr&quot; style=&quot;background:transparent; position: absolute; right: 50px; top: 410px&quot;
+|-
+|[[kasım]]
+|}
+{|id=&quot;uk&quot; style=&quot;background:transparent; position: absolute; right: 80px; top: 280px&quot;
+|-
+|???
+|}
+&lt;/div&gt;
+
+&lt;br clear=&quot;all&quot; /&gt;
+
+== {{-ca-}} ==
+{{-sost-|ca}}
+{{Pn}} ''m''
+# [[#Italiano|novembre]]
+
+== {{-fr-}} ==
+{{-sost-|fr}}
+{{Pn}} ''m''
+# [[#Italiano|novembre]]
+
+{{-sill-}}
+;no | vembre
+{{-pron-}}
+{{IPA|/nɔvɑ͂bʀ/}}
+{{Audio|Fr-novembre.ogg}}
+{{-etim-}}
+{{Vd|#italiano|novembre}}
+{{-iperon-}}
+*[[mois]]
+
+== {{-ia-}} ==
+{{-sost-|ia}}
+{{Pn}}
+# [[#Italiano|novembre]]
+
+== {{-oc-}} ==
+{{-sost-|oc}}
+{{Pn}} ''m''
+# [[#Italiano|novembre]]
+
+{{-sill-}}
+; no | vem | bre
+
+{{-pron-}}
+* {{IPA|/nuˈβembɾe/}}
+
+{{-etim-}}
+dal {{la}} ''novĕmber''
+
+== {{-ra-}} ==
+{{-sost-|ra}}
+{{Pn}}
+# [[#Italiano|novembre]]
+
+{{-ref-}}
+*italiano
+** {{Fonte|gar}}
+** {{Fonte|sape}}
+** {{Fonte|sabco}}
+** {{Fonte|dizit}}
+** {{Fonte|trec}}
+**Enciclopedia [http://www.treccani.it/enciclopedia/ricerca/Novembre/ Treccani]
+** {{Fonte|eti}}
+** {{Fonte|hoep}}
+** {{Fonte|itfd}}
+*catalano
+** {{Noref|ca}}
+*francese
+** {{Noref|it}}
+*interlingua
+** {{Noref|ia}}
+*occitano
+** {{Fonte|opera=panoccitan|2=http://www.panoccitan.org/diccionari.aspx|3=Dizionario pan-occitano pag. 2208}}
+*romanica
+** {{Noref|ro}}
+
+[[Categoria:Mesi-IT|novembre]]
+[[Categoria:Mesi-FR]]

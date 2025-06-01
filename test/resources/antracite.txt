@@ -1,0 +1,39 @@
+== {{-it-}} ==
+{{-agg-|it}}
+{{Pn}} ''m sing'' {{Linkp|antraciti}}
+# di colore [[grigio]] scurissimo e [[lucente]] 
+#* ''color {{Pn}}''
+
+{{-sost-|it}}
+{{Pn|w}} ''f sing'' {{Linkp|antraciti}}
+# {{Term|geologia|it}} {{Term|mineralogia|it}} un tipo di [[carbone]] [[fossile]] di origine antichissima e ad alto potere [[calorifico]] 
+
+{{-sill-}}
+; an | tra | cì | te
+
+{{-pron-}}
+{{Nopron|it}}
+
+{{-etim-}}
+dal {{grc}} ''[[ἄνθραξ]]'' ossia &quot;[[carbone]]&quot;;
+dal {{la}} ''[[anthracite]]'' 
+
+{{-trad-}}
+{{Trad1|}}
+:*{{fr}}: [[anthracite]] ''m''
+:*{{en}}: [[anthracite]]
+{{mid}}
+:*{{nl}}: [[antraciet]] ''m'' o ''n''
+:*{{de}}: [[Anthrazit]] ''m''
+{{Trad2}}
+
+{{-ref-}}
+* {{Fonte|trec}}
+* {{Fonte|hoep}}
+* {{Fonte|sape}}
+* {{Fonte|gar}}
+* {{Fonte|sabco}}
+* {{Fonte|dizit}}
+
+== Altri progetti ==
+{{Interprogetto|w}}

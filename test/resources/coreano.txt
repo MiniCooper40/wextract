@@ -1,0 +1,90 @@
+== {{-it-}} ==
+{{-agg-|it}}
+{{Pn|w}} ''m sing'' {{Tabs|coreano|coreani|coreana|coreane}}
+
+# {{Term|geografia|it}} proveniente dalla [[Corea]] oppure relazionato con essa
+
+{{-sost-|it}}
+{{Pn}} ''m sing''
+{{Tabs|coreano|coreani|coreana|coreane}}
+# {{Term|linguistica|it}} abitante o nativo della [[Corea]]
+
+{{-sost-|it}}
+{{Pn|w=Lingua coreana}} ''m inv''
+# {{Term|linguistica|it}} lingua agglutinante parlata in [[Corea]]
+
+{{-sill-}}
+; co | re | à | no
+
+{{-pron-}}
+{{IPA|/koreˈano/}}
+
+{{-etim-}}
+derivato di [[Corea]]
+
+{{-der-}}
+* [[nordcoreano]], [[sudcoreano]]
+
+{{-iperon-}}
+*[[asiatico]]
+
+{{-trad-}}
+{{Trad1|relativo alla Corea}}
+:*{{ko}}: [[chaoxian]]
+:*{{fr}}: [[coréen]]
+:*{{en}}: [[Korean]]
+:*{{ga}}: [[coiréis]]
+{{mid}}
+:*{{de}}: [[koreanisch]]
+:*{{tr}}: [[Kore]], lingua: [[Koreçe]]
+:*{{hu}}: [[koreai]]
+{{Trad2}}
+
+{{Trad1|abitante o nativo della Corea}}
+:*{{en}}:  [[Korean]]
+:*{{de}}: [[Koreaner]]
+:*{{hu}}: [[koreai]]
+{{Trad2}}
+
+{{Trad1|lingua parlata in Corea}}
+:*{{br}}: [[koreaneg]] ''m''
+:*{{en}}: [[Korean]]
+:*{{de}}: [[Koreanisch]]
+:*{{hu}}: [[koreai]]
+{{Trad2}}
+
+[[Categoria:Demonimo-IT]]
+
+=={{-pt-}}==
+{{-agg-|pt}}
+{{pn}}
+#coreano
+
+{{-sost-|pt}}
+{{pn}}
+#coreano ([[abitante]] della [[Corea]])
+#{{Term|linguistica|pt}} coreano
+
+=={{-es-}}==
+{{-agg-|es}}
+{{pn}}
+#coreano
+
+{{-sost-|es}}
+{{pn}}
+#coreano ([[abitante]] della [[Corea]])
+#{{Term|linguistica|es}} coreano
+
+{{-ref-}}
+Italiano
+* {{Fonte|trec}}
+* {{Fonte|hoep}}
+* {{Fonte|dizit}}
+* {{Fonte|dem}}
+* {{Fonte|sape}}
+* {{Fonte|gar}}
+Portoghese 
+* {{Fonte|ptfd}}
+Spagnolo 
+* {{Fonte|hoes}}
+* {{Fonte|dices|coreano}}

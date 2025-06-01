@@ -1,0 +1,85 @@
+== {{-it-}} ==
+{{-sost-|it}}
+{{Pn|q}} ''m sing'' {{Tabs|ragazzo
+|ragazzi|ragazza|ragazze}}
+# {{Term|gergale|it}} [[giovane]] [[aiutante]] che [[coadiuva]] un [[lavoratore]] [[più]] [[esperto]]
+# [[persona]] [[responsabile]] di [[giovane]] [[età]]
+# {{Est}} {{Term|antropologia|it}} [[fanciullo]], [[adolescente]] e [[giovane]]
+[[File:Giovanni Serodine-Ritratto di ragazzo.jpg|thumb|[[w:Giovanni Serodine|Giovanni Serodine]]: [[ritratto]] di ragazzo]]
+{{-sill-}}
+; ra | gàz | zo
+
+{{-pron-}}
+{{IPA|/ra.ˈɡat.t͡so/}}
+
+{{-etim-}}
+con il plurale antiquato ''ragaceni'' (1408) o ''ragazzini'' (1492), dall’{{ar}} magrebino ''raqqāṣ'' (رَقَّاص‎) ‘corriere, messaggero’, al plurale ''raqqāsīn'',&lt;ref&gt;Manlio Cortelazzo e Paolo Zolli, ''Dizionario etimologico della lingua italiana'', Bologna, Zanichelli, 1979-1988.&lt;/ref&gt; passato già nel latino medievale ''ragatius'' e varianti. Secondo altri, invece, sarebbe un prestito dal {{grc}} ''[[ῥάκος]]'' ‘[[cencio]], [[straccio]]’, che potrebbe aver indicato per [[metonimia]] il [[servo]] o lo schiavo, e quindi poi il [[fanciullo]] identificato per antonomasia con lo schiavo.
+
+{{-quote-}}
+{{Quote
+|Meglio un '''ragazzo''' povero ma accorto, che un re vecchio e stolto che non sa ascoltare i consigli. |[[w:Qoelet|Qoelet]] {{Passo biblico|Qo|4,13}}}}
+
+{{-sin-}}
+*[[adolescente]], [[fanciullo]], [[giovinetto]]
+* [[giovane]], [[giovanotto]]
+* [[aiutante]], [[apprendista]], [[commesso]], [[fattorino]], [[garzone]], ragazzo di bottega
+* [[ragazzino]], [[signorino]]
+*   [[figlio]] 
+* {{Term|gergale|it}} [[marmocchio]], [[sbarbatello]]
+* {{Term|familiare|it}} [[fidanzato]],  [[moroso]]  [[innamorato]], [[compagno]], [[boyfriend]],   [[partner]]
+
+{{-der-}}
+* [[ragazzata]], [[ragazzesco]], [[ragazza]], [[ragazzaglia]] 
+
+{{-rel-}}
+* [[giovinetto]], [[adolescente]]. [[servitore]]
+
+{{-alter-}}
+* {{Dim}} [[ragazzetto]], [[ragazzino]], [[ragazzuccio]]
+* {{Accr}} [[ragazzotto]], [[ragazzone]]
+* {{Pegg}}   [[ragazzaccio]]
+
+{{-prov-}}
+*''da ragazzo''
+* ''[[bravo]] {{Pn}}'': giovane con qualità di pregio
+* ''i '''ragazzi''''' (o anche ''i miei ragazzi''): modo affettuoso per riferirsi ad un grande gruppo di giovani oppure proprio ai figli
+
+{{-trad-}}
+{{Trad1|giovane uomo non ancora adolescente}}
+:* {{br}}: [[paotr]] ''m''
+:* {{cs}}: [[kluk]] ''m''
+:* {{sro}}: [[piccioccu]], [[pipiu]]
+:* {{da}}: [[dreng]]
+:* {{eo}}: [[knabo]]
+:* {{fi}}: [[poika]]
+:* {{fr}}: [[garçon]] ''m''
+:* {{en}}: [[boy]], [[lad]]
+:* {{la}}: [[puer]] ''m''
+{{mid}}
+:* {{src}}: [[pitzinnu]], [[piccioccu]], [[pitzoccu]]
+:* {{nl}}: [[jongen]]
+:* {{no}}: [[gutt]] ''m''
+:* {{nn}}: [[gut]] ''m''
+:* {{pt}}: [[rapaz]] ''m''
+:* {{rgn}}: [[burdël]] ''m''
+:* {{es}}: [[chico]] ''m''
+:* {{hu}}: [[fiú]]
+{{Trad2}}
+
+{{-ref-}}
+&lt;references/&gt;
+*italiano
+** {{Fonte|gar}}
+** {{Fonte|sape}}
+** {{Fonte|eti}}
+** {{Fonte|sape}}
+** {{Fonte|trec}}
+** {{Fonte|sabco}}
+** {{Fonte|desan|R}}
+** {{Fonte|sin-co}}
+** {{Fonte|hoep}}
+** {{Fonte|itfd}}
+**AA.VV., ''Dizionario sinonimi e  contrari'', Mariotti, 2006, pagina 450
+
+== Altri progetti ==
+{{Interprogetto|q|q_preposizione=sul}}

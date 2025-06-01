@@ -1,0 +1,141 @@
+== {{-it-}} ==
+{{-verb-|it}}
+{{Intransitivo|it}}
+{{Pn|c}}
+# [[attraversare]] un [[luogo]]
+#* ''{{Pn}} per la strada''
+# [[cambiare]] [[sede]]
+#* ''vuoi {{Pn}} in [[soggiorno]]?''
+# [[trascorrere]] (il [[tempo]])
+#* ''col {{Pn}} degli anni le ossa si mineralizzano, cioè si arricchiscono di sali di calcio''
+#* ''{{Pn}} le [[vacanze]] in [[montagna]]''
+# {{Term|politica|it}} [[promuovere]], [[approvare]]
+#* ''la [[proposta]] deve {{Pn}}''
+# {{Term|scuola|it}} {{Term|familiare|it}} [[superare]] un [[esame]] oppure &quot;[[uscire]] [[promossi]]&quot; e [[quindi]] [[accedere]] ad un [[livello]] [[scolastico]] [[successivo]]
+#* ''mio figlio sta per {{Pn}} in quinta [[elementare]]''
+# [[dare]], [[porgere]] qualcosa
+#* ''mi potresti  {{Pn}} del [[pane]]?''
+# {{Term|gergale|it}} [[giungere]] a qualcosa di [[nuovo]], [[migliore]] o ad una nuova [[situazione]]
+#* ''{{Pn}} ad un [[livello]] più [[difficile]]''
+#* ''siamo '''passati''' ai [[gadget]]''
+# {{Term|fisica|it}} {{Term|chimica|it}} [[cambiare]] [[stato]] o [[condizione]]
+#* '''''è passato''' dallo stato [[liquido]] allo stato [[gassoso]]''
+
+{{Transitivo|it}}
+{{Pn|c}}
+
+# [[ridurre]] un [[cibo]] in [[poltiglia]] con un [[apposito]] [[utensile]] da [[cucina]]
+#* ''{{Pn}} la [[verdura]]''
+#oltrepassare, attraversare qualcosa
+#* ''{{Pn}} il confine''
+
+{{-sill-}} 
+; pas | sà | re
+
+{{-pron-}}
+{{IPA|/pasˈsare/}}
+
+{{-etim-}}
+dal [[latino]] parlato ''*passāre'', che deriva  da ''[[passus#Latino|păssus]]'', &quot;[[passo]]&quot;, a sua volta dal verbo ''[[pando#Latino|pando]]'', &quot;[[estendere]]&quot;; etimologicamente correlato al [[francese]] ''[[passer#Francese|passer]]'', allo [[spagnolo]] ''[[pasar#Spagnolo|pasar]]'', al [[portoghese]] ''[[passar#Portoghese|passar]]''
+
+{{-sin-}}
+* [[attraversare]], [[oltrepassare]], [[percorrere]], [[superare]], [[transitare]], [[varcare]]
+*[[spostare]], [[trasferire]], [[traslocare]], [[trasportare]]
+* ''(di fiume)'' [[arrivare]], [[giungere]], [[incrociare]], [[lambire]], [[toccare]]
+*[[entrare]], [[insinuarsi]], [[penetrare]], [[scivolare]], [[sgusciare]]
+* ''(di tempo)'' [[consumarsi]], [[esaurirsi]], [[fluire]], [[finire]], [[scorrere]], [[trascorrere]]
+* {{Fig}} [[cambiare]], [[evolvere]], [[modificarsi]], [[mutare]], [[trasformarsi]], [[tramutarsi]]
+*[[affidare]], [[assegnare]], [[consegnare]], [[dare]], [[demandare]], [[devolvere]], [[porgere]], [[tramandare]], [[trasmettere]]
+* {{Fig}} ''(di legge, proposta)'' [[accettare]], [[ammettere]], [[approvare]], [[promuovere]], [[sancire]]
+* {{Est}}''(di rischio)''  
+*  [[circolare]]
+* [[andare]], [[venire]]; [[muoversi]], [[procedere]], [[proseguire]], [[sfilare]],   [[ spostarsi]]
+* ''(attraverso un luogo stretto)'' ,  [[insinuarsi]] 
+* ''(di liquidi)'' [[filtrare]], [[colare]], 
+* ''(nell'olio, nell'uovo ecc.)'' [[bagnare]], [[ immergere]] 
+* ''(di fiume)'' [[snodarsi]], [[bagnare]], [[toccare]]
+* ''(di confine, limite)'' [[estendersi]]
+* {{Est}} [[introdursi]], [[infilarsi]], [[penetrare]], [[entrare]], [[uscire]], [[scivolare]], [[sgusciare]]
+* {{Fig}} [[vivere]], [[svilupparsi]], [[svolgersi]]
+* ''(di tempo)'' [[trascorrere]], [[impiegare]] [[scorrere]], [[fluire]], [[intercorrere]]; [[allontanarsi]]
+* ''(con soggetto non animato)'' [[finire]], [[cessare]], [[terminare]], [[esaurirsi]]
+* {{Fig}}  essere considerato, [[figurare]], [[sembrare]], [[parere]]
+* ''(di frutta, fiori)'' [[marcire]]
+* {{Fig}} essere promosso, essere approvato, [[riuscire]], avere successo
+* {{Fig}} ''(di rapporto, relazione)'' [[intercorrere]], avere luogo, [[esistere]], [[esserci]]
+* {{Fig}} essere trasferito
+* {{Fig}} [[cambiare]], mutare stato, mutare condizione
+* andare avanti, cambiare argomento
+* ''(una cosa a qualcuno)'' [[dare]], [[porgere]], [[cedere]], [[assegnare]]
+* {{Fig}} [[attraversare]]
+* ''(di misura, limite)'' [[superare]], [[oltrepassare]], [[saltare]], [[scavalcare]], [[sorpassare]], [[varcare]], [[valicare]], [[guadare]], [[traghettare]]
+* ''(con lo sguardo)'' [[scorrere]], [[leggere]]
+* ''(con un’arma)'' [[ferire]], [[trafiggere]], 
+* ''(con una lama e sim.)'' [[ infilzare]], [[infilare]], [[trapassare]]
+* ''(una sostanza)''   [[colare]], [[depurare]], [[filtrare]], [[setacciare]],
+* {{Term|familiare|it}} [[approvare]], [[promuovere]]
+* ''(un esame)'' [[superare]]
+* {{Term|familiare|it}}  [[affrontare]], [[esperimentare]], [[patire]],[[sopportare]],  [[subire]],  
+* ''(telefonata, comunicazione, linea)'' [[trasferire]]
+* ''(attraverso un’apertura)'' fare entrare, fare uscire, [[infilare]], [[infilzare]][[introdurre]], 
+* ''(su una superficie)'' [[applicare]], [[spalmare]],   [[stendere]], , [[strofinare]]
+* ''(di offesa)'' [[accettare]], [[ammettere], [[perdonare]], [[sopportare]], [[subire]]], [[tollerare]]
+* [[calmarsi]], [[placarsi]] 
+* ''(una notizia)''  [[comunicare]]
+* {{Est}} [[soffrire]],  [[sperimentare]], 
+*[[presentarsi]], [[recarsi]], [[venire]], [[visitare]]
+* {{Fig}} ''(di persona)'' [[apparire]], farsi credere, [[figurare]], [[mostrarsi]], [[parere]], [[sembrare]] 
+* ''(di alimenti)'' [[filtrare]], [[fruttare]], [[macinare]], [[pestare]]
+
+
+{{-ant-}}
+*[[arrestarsi]], [[bloccarsi]], [[fermarsi]], [[indugiare]], [[sostare]]
+*[[lasciare]]
+* {{Fig}} [[continuare]], [[durare]], [[permanere]]
+*[[ritirare]], [[sottrarre]], [[togliere]]
+* [[bocciare]], [[respingere]] 
+* ''(un cibo in padella)'' [[estrarre]]
+* [[restare]]
+* [[rifiutare]]
+* [[bloccare]]
+
+* [[censurare]]
+* {{Term|raro|it}} [[tacciare]]
+* {{Est}} [[ostacolare]]
+
+{{-der-}}
+* [[by-passare]], [[lasciapassare]], [[oltrepassare]], [[passabile]], [[passacarte]], [[passata]], [[passatoia]], [[passatempo]], [[passi]], [[ripassare]]
+
+{{-prov-}}
+* ''passare sopra''
+* ''passare al nemico ''
+* ''passare in rassegna''
+* ''passare il segno''
+* ''{{Pn}} un guaio'': essere  in una situazione delicata... parecchio
+* ''Quante ne '''abbiamo passate'''!'': in ricordo dei vecchi tempi
+* ''il tempo '''passa''' [caro amico]'': rimembranza dei doveri oltre che piacevolezza nei piaceri
+* ''passare  per le armi''
+
+{{-trad-}}
+{{Trad1|}}
+:* {{fr}}: [[courser]]
+:* {{en}}: to [[pass]]
+:* {{la}}: [[abire]]
+{{mid}}
+:* {{pt}}: [[passar]]
+:* {{es}}: [[transcursar]], [[pasar]]
+:* {{de}}: [[passieren]]
+{{Trad2}}
+
+{{-ref-}}
+* {{Fonte|trec}}
+* {{Fonte|dizit}}
+* {{Fonte|hoep}}
+* {{Fonte|sape}}
+* {{Fonte|gar}}
+* {{Fonte|sabco}}
+* {{Fonte|dem}}
+* {{Fonte|sin-co}}
+* {{Fonte|eti}}
+* {{Fonte|itfd}}
+*AA.VV., ''Dizionario sinonimi e contrari'', Mariotti, 2006, pagina 389

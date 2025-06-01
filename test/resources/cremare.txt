@@ -1,0 +1,82 @@
+{{Vedi|cremaré}}
+== {{-it-}} ==
+{{-verb-|it}}
+{{Transitivo|it}}
+{{Pn|c}}
+# {{Term|religione|it}} [[ridurre]] un [[cadavere]] in [[gas]] e [[frammenti]] [[ossei]] col [[fuoco]]
+
+{{Intransitivo|it}}
+{{Pn|c}}
+# {{Nodef|it}}
+
+{{-sill-}}
+; cre | mà | re
+
+{{-pron-}}
+{{IPA|/kreˈmare/}}
+
+{{-etim-}}
+dal latino ''[[cremo#Latino|cremare]]'', cioè &quot;[[bruciare]], [[incendiare]], [[ridurre]] in [[cenere]]&quot;
+
+{{-sin-}}
+* ''(un cadavere)'' [[bruciare]], [[incinerare]], [[ardere]],  [[incenerire]]
+* {{Term|antico|it}} [[ardere]], [[bruciare]]
+
+{{-trad-}}
+{{Trad1|ridurre in cenere un cadavere}}
+:*{{fr}}: [[incinérer]]
+:*{{en}}: [[cremate]]
+:* {{la}}: [[cremo#Latino|cremo]]
+:*{{nl}}: [[cremeren]]
+{{mid}}
+:*{{es}}: [[cremar]]
+:*{{de}}: [[einäschern]]
+{{Trad2}}
+
+== {{-la-}} ==
+{{-verb form-|la}}
+{{Pn}}
+# infinito presente attivo di [[cremo#Latino|cremō]]
+# seconda persona singolare dell'imperativo presente passivo di [[cremo#Latino|cremō]]
+
+{{-pron-}}
+* (''pronuncia classica'') {{IPA|/ˈkre.maː.re/}}
+
+{{-etim-}}
+vedi [[cremo#Latino|cremō]]
+
+{{-uso-}}
+per antica convenzione, i verbi latini sono definiti in base alla prima persona singolare dell'indicativo presente; per la definizione, etimologia etc. del verbo si veda dunque '''''[[cremo#Latino|cremō]]'''''
+
+=={{-es-}}==
+{{-verb form-|es}}
+{{Pn}}
+
+# prima persona singolare del congiuntivo futuro di [[cremar#Spagnolo|cremar]]
+# terza persona singolare del congiuntivo futuro di [[cremar#Spagnolo|cremar]]
+
+{{-pron-}}
+* {{IPA|/kɾe.ˈma.ɾe/}}
+
+{{-etim-}}
+vedi [[cremar#Spagnolo|cremar]]
+
+{{-uso-}}
+come voce verbale del congiuntivo futuro è utilizzata anche, con il pronome '''''[[usted#Spagnolo|usted]]''''', per realizzare la seconda persona singolare formale (analogo al &quot;[[Lei]]&quot; italiano)
+
+{{-ref-}}
+*italiano
+** {{Fonte|sape}}
+** {{Fonte|gar}}
+** {{Fonte|dem}}
+** {{Fonte|sabco}}
+** {{Fonte|dizit}}
+** {{Fonte|hoep}}
+** {{Fonte|trec}}
+** {{Fonte|sin-co}}
+*latino
+**[https://www.dizionario-latino.com/dizionario-latino-italiano.php?parola=cremo]Dizionario Latino Olivetti, Olivetti Media Communication edizione on line 
+* latino
+** {{Ref-link|cremo}}
+* spagnolo
+** {{Ref-link|cremar}}

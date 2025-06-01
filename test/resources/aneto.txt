@@ -1,0 +1,19 @@
+== {{-it-}} ==
+{{-sost-|it}}
+'''anèto''' ''sing'' ''m''
+# {{Term|botanica|it}} {{Term|gastronomia|it}} {{Term|farmacologia|it}} erba con semi aromatici, molto simile al finocchio
+
+{{-sill-}}
+'''a | nè | to'''
+
+{{-etim-}}
+dal [[latino]] ''[[anethum]]'' e dal  [[greco]] ''[[ἄνηϑον]]'' 
+
+{{-trad-}}
+{{Trad1|}}
+:*{{en}}:
+{{Trad2}}
+
+{{-ref-}}
+* {{Fonte|trec}}
+* {{Fonte|hoep}}

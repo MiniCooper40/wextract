@@ -1,0 +1,133 @@
+== {{-it-}} ==
+{{-agg-|it}}
+{{Pn|q}}  ''m'' e ''f sing'' {{Linkp|fini}}
+# [[che]] presenta [[armonia]] d'[[aspetto]]
+#* ''è una persona molto '''fine'''''
+
+{{-sost-|it}}
+{{Pn}} ''m solo sing''
+# [[pezzo]] [[minuto]] di un oggetto
+
+{{-sost-|it}}
+{{Pn}} ''m'' e ''f sing'' {{Linkp|fini}}
+# [[motivo]] per cui agisce
+#* ''qual è dunque il '''fine''' ultimo della vita?''
+#[[termine]], [[conclusione]] 
+#* ''questa è la '''fine''' del film''
+
+{{-sill-}}
+; fì | ne
+
+{{-pron-}}
+{{IPA|/ˈfine/}}
+
+{{-etim-}}
+dal {{la}} ''[[finis]]'' cioè &quot;[[limite]]&quot;
+
+{{-quote-}}
+{{Quote
+|Ciò che diciamo principio  spesso è la fine, e finire  è cominciare. La fine  è là onde partiamo
+|[[q:Thomas Stearns Eliot|Thomas Stearns Eliot]]}}
+
+{{-sin-}}
+*'''(aggettivo)''' [[affusolato]], [[assottigliato]], [[capillare]], [[fino]], [[minimo]], [[minuto]], [[sottile]]
+*{{Fig}}  [[accurato]], [[chic]], [[delicato]], [[distinto]], [[elegante]], [[gentile]], [[pregiato]], [[raffinato]], [[ricercato]]
+*   [[ridotto]],  [[appuntito]], [[aguzzo]], [[acuminato]]
+*  [[inconsistente]], [[impalpabile]], [[leggero]], [[lieve]]
+* {{Fig}} [[acuto]], [[sagace]], [[dotato]],   [[penetrante]], [[perspicace]], [[avveduto]], [[accorto]], [[furbo]], [[astuto]], [[scaltro]]
+*[[cortese]];  [[signorile]], [[chic]]
+*  [[puro]]; [[accurato]], [[preciso]], di precisione, [[perfetto]]
+
+*'''(sostantivo)''' [[caduta]], [[distruzione]], [[crollo]], [[rovina]]
+* [[risultato]],  [[meta]],  [[coronamento]], [[chiusura]], [[compimento]], [[conclusione]],  [[epilogo]], [[esito]], [[finale]], [[morte]], [[decesso]], [[termine]]
+* {{Term|antico|it}} [[confine]]
+*[[intenzione]], [[progetto]],  [[ideale]], [[disegno]]
+*[[aspirazione]], [[esito]], [[finalità]], [[intento]], [[intenzione]], [[mira]], [[obiettivo]], [[proposito]], [[scopo]], [[traguardo]]
+*''(nello spazio, nel tempo)'' [[limite]]
+
+{{-ant-}}
+*'''(aggettivo)''' [[grosso]], [[largo]],  [[spesso]], [[pesante]]
+* {{Fig}}  [[stupido]], [[stolto]], [[ottuso]]
+* [[impreciso]], [[imperfetto]], [[grossolano]], [[volgare]]
+**'''(sostantivo)''' ''(nello spazio e  nel tempo)'' [[inizio]], [[principio]]
+* ''(di opera, film)'' [[inizio]]
+
+{{-der-}}
+* [[affinare]], [[fine settimana]]
+
+{{-prov-}}
+* ''alla fin fine'': esprime la soluzione di una riflessione oppure disappunto per qualcosa accaduto, comunque con lieve dimostrazione di sopportazione
+* ''secondo fine'': mancanza di sincerità oppure fare qualcosa in modo non disinteressato
+* ''essere la fine''
+* ''fare una brutta fine'': riferimento, spesso previsto o su cui si ha un dubbio, alla condotta di qualcuno, talvolta appunto coinvolto in crimini o malaffare
+* ''andare a buon fine'': qualcosa che riesce, che avrà un buon esito
+
+{{-trad-}}
+{{Trad1|[[sottile]]}}
+:* {{en}}: [[fine]], [[thin]], [[slender]]
+{{Trad2}}
+
+{{Trad1|[[impalpabile]]}}
+:* {{en}}: [[fine]]
+{{Trad2}}
+
+{{Trad1|finale}}
+:*{{en}}: [[end]]
+:*{{fr}}: [[fin]] ''f'', [[bout]] ''m'' (estremità)
+:*{{nl}}: [[afloop]] ''m''
+:*{{la}}: [[perāctio]], [[exĭtus]], [[finis]], [[termĭnus]], [[functio]], [[propositum]]
+:*{{pt}}: [[fim]] ''m''
+:*{{es}}: [[fin]] ''m''
+:*{{de}}: [[Ende]] ''n''
+{{Trad2}}
+
+{{Trad1|motivo per cui si fa qualcosa}}
+:*{{fr}}: [[but]] ''m''
+:*{{de}}: , [[Ziel]] ''n''
+{{Trad2}}
+
+== {{-en-}} ==
+{{-agg-|en}}
+{{Pn}}
+# [[bello]]
+# [[fine#italiano|fine]]
+
+{{-avv-|en}}
+{{Pn}}
+# [[bene]]
+
+{{-inter-|en}}
+{{Pn}} (''usualmente con enfasi breve e cadente'')
+# [[va bene]]
+
+{{-sost-|en}}
+{{Pn}}
+#{{Term|diritto|en}} [[multa]]
+
+{{-verb-|en}}
+{{Pn}}
+# [[multare]]
+
+{{-pron-}}
+IFA: /fain/ 
+
+{{-ref-}}
+*italiano
+** {{Fonte|eti}}
+** {{Fonte|trec}}
+** {{Fonte|zin|689|1997}}
+** {{Fonte|dizit}}
+** {{Fonte|sape}}
+** {{Fonte|hoep|1}}
+** {{Fonte|hoep|2}}
+** {{Fonte|sabco|1}} 
+** {{Fonte|sabco|2}}
+** {{Fonte|sin-co|1}}
+** {{Fonte|sin-co|2}}
+**AA.VV., ''Dizionario sinonimi e contrari'', Mariotti, 2006, pagina 219
+** {{Fonte|itfd}}
+*inglese
+** {{Noref|en}}
+
+== Altri progetti ==
+{{Interprogetto|q}}

@@ -4,14 +4,17 @@ import time
 from lxml import etree
 import mwparserfromhell
 import re
+import nltk
 import threading
 from queue import Queue
 import os
 import multiprocessing
 import urllib.parse
+import nltk
 from enum import Enum, auto
 import numpy as np
 
+nltk.download('punkt', quiet=True)
 
 all_found_form_lines = Counter()
 

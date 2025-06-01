@@ -1,3 +1,6 @@
 mwparserfromhell
 lxml
 nltk
+pytest
+sortedcontainers
+numpy
